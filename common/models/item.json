@@ -16,7 +16,7 @@
       "required": true
     },
     "audio": {
-      "type": "integer",
+      "type": "number",
       "required": false
     }
   },
