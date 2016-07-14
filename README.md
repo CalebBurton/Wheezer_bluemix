@@ -1,8 +1,1 @@
-This README.md file is displayed on your project page. You should edit this 
-file to describe your project, including instructions for building and 
-running the project, pointers to the license under which you are making the 
-project available, and anything else you think would be useful for others to
-know.
-
-Be sure to update your project's profile with a short description and 
-eye-catching graphic.
+Contains files related to my work with <b>A</b>dvanced <b>S</b>elf-powered <b>S</b>ystems and <b>I</b>ntegrated <b>S</b>ensor <b>T</b>echnologies
